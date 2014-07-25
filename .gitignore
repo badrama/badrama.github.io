@@ -1,0 +1,10 @@
+/bower_components/*
+/.sass-cache/*
+/scss/*
+*.bowerrc
+*bower.json
+*config.rb
+*default.html
+*index - Copy.html
+
+*.DS_Store
